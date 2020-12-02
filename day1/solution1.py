@@ -1,4 +1,4 @@
-with open('data/day1.txt') as file:
+with open('_data/day1.txt') as file:
     data = [int(i) for i in file.readlines()] 
 
 year = 2020

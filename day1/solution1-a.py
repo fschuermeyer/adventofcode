@@ -4,7 +4,7 @@ from functools import partial
 
 # Solution with one Function
 
-with open('data/day1.txt') as file:
+with open('_data/day1.txt') as file:
     data = [int(i) for i in file.readlines()] 
 
 def checkforSum(t,year):
