@@ -12,3 +12,6 @@ for t in [(i,j) for i in data for j in data]:
         break
 
 print(solution)
+
+
+
